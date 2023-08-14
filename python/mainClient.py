@@ -4,6 +4,6 @@ if __name__ == "__main__":
     tcpClient = TCPClient()
     
     tcpClient.connectServer()
-    tcpClient.sendMessage("COLEEEE")
+    tcpClient.sendMessage("MAQUINA 1 - WINDOWS")
     
     tcpClient.closeSection()
